@@ -1,0 +1,1 @@
+export const BASE_URL_API = "https://rpa-api.platosystems.io/api";
